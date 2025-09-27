@@ -1,5 +1,5 @@
 name: dashed_divider
-description: "A new Flutter project."
+description: "Horizontal dotted line formation, supporting bilateral inward gradient transparency."
 version: 0.0.1
 homepage: https://jsontodart.cn/
 repository: https://github.com/Matkurban/dashed_divider.git
